@@ -19,6 +19,7 @@
             tapping-term-ms = <200>;
             quick-tap-ms = <175>;
             hold-trigger-key-positions = <13 14 15 16 19 20 21 22>;
+            flavor = "balanced";
         };
     };
 
